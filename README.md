@@ -4,7 +4,7 @@
  
 <img src="https://komarev.com/ghpvc/?ramzibouzaiene&style=flat-square&color=blue" alt=""/>
  
-Hi 👋 My name is Ramzi Bouzaiene
+Hi 👋 My name is Ramzi Bouzayene
 ================================
  
 Full Stack Software Engineer
