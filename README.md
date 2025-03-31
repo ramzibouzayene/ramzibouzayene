@@ -7,7 +7,7 @@
 Hi 👋 My name is Ramzi Bouzayene
 ================================
  
-Full Stack Software Engineer <a href="https://github.com/ramzibouzaiene" target="_blank">My Main Github Account</a>
+Full Stack Software Engineer | <a href="https://github.com/ramzibouzaiene" target="_blank">My Main Github Account</a>
 ------------------
  
 I'm a passionate Full Stack Engineer with a proven track record of building robust web applications from the ground up. My expertise spans across both front-end and back-end development, including technologies like React, Angular, Java/Spring Boot, Node.js/Express.js, and PHP/Laravel.
